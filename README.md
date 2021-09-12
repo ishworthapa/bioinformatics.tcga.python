@@ -1,2 +1,2 @@
-# bioinformatics.python
-Tools for Bioinformatics written in python
+# bioinformatics.tcga.python
+Tool for TCGA data written in python.
